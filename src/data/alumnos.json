@@ -1,0 +1,2752 @@
+[
+ {
+  "id": 1964,
+  "nombre": "OSWALDO DE JESUS",
+  "apellidoP": "ACOSTA",
+  "apellidoM": "CASTILLO",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1914,
+  "nombre": "ARELY",
+  "apellidoP": "AGUILAR",
+  "apellidoM": "CONSTANTINO",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2113,
+  "nombre": "MÓNICA DHUBE",
+  "apellidoP": "AGUILAR",
+  "apellidoM": "RODRÍGUEZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2080,
+  "nombre": "ALVARO",
+  "apellidoP": "AGUIRRE",
+  "apellidoM": "ROSALES",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2024,
+  "nombre": "ANTONIO DE JESUS",
+  "apellidoP": "AHUMADA",
+  "apellidoM": "TORRES",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1903,
+  "nombre": "FEDERICO",
+  "apellidoP": "ALONSO",
+  "apellidoM": "VALADEZ",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2157,
+  "nombre": "JUAN CARLOS",
+  "apellidoP": "ALVARADO",
+  "apellidoM": "PONCE",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2153,
+  "nombre": "ALMA ROSA",
+  "apellidoP": "ALVAREZ",
+  "apellidoM": "HERNÁNDEZ",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2101,
+  "nombre": "LUIS ARTURO",
+  "apellidoP": "AMADOR",
+  "apellidoM": "ALARCÓN",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1535,
+  "nombre": "JOSE DE JESUS",
+  "apellidoP": "ANAYA",
+  "apellidoM": "PEDRAZA",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2127,
+  "nombre": "RICARDO",
+  "apellidoP": "ANGELES",
+  "apellidoM": "CRUZ",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2025,
+  "nombre": "LUIS CARLOS",
+  "apellidoP": "ARAUJO",
+  "apellidoM": "PEREZ",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2109,
+  "nombre": "MANUEL ANTONIO",
+  "apellidoP": "ARENAS",
+  "apellidoM": "MENDEZ",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2047,
+  "nombre": "CRISTINA",
+  "apellidoP": "ARIAS",
+  "apellidoM": "MAZARIEGOS",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2129,
+  "nombre": "FABIAN",
+  "apellidoP": "AROZQUETA",
+  "apellidoM": "ORTEGA",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2136,
+  "nombre": "PEDRO DE JESÚS",
+  "apellidoP": "BADILLO",
+  "apellidoM": "RÓMULO",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1559,
+  "nombre": "VANESSA",
+  "apellidoP": "BARTOLO",
+  "apellidoM": "REYES",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2070,
+  "nombre": "ELVIA ELOISA",
+  "apellidoP": "BAYARDO",
+  "apellidoM": "DOMINGUEZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1536,
+  "nombre": "DAVID",
+  "apellidoP": "BENITO",
+  "apellidoM": "DIAZ",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1965,
+  "nombre": "ALEJANDRO",
+  "apellidoP": "BENITO",
+  "apellidoM": "SANTIAGO",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1955,
+  "nombre": "BALAM",
+  "apellidoP": "BERMEA",
+  "apellidoM": "BANDA",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2002,
+  "nombre": "JOSÉ ADOLFO",
+  "apellidoP": "BERNARDINO",
+  "apellidoM": "GONZALEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2048,
+  "nombre": "TOMAS",
+  "apellidoP": "BLANCO",
+  "apellidoM": "TORRES",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1945,
+  "nombre": "PEDRO",
+  "apellidoP": "BONILLA",
+  "apellidoM": "CONTRERAS",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2003,
+  "nombre": "MIGUEL ANGEL",
+  "apellidoP": "BONILLA",
+  "apellidoM": "SALINAS",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1613,
+  "nombre": "MIGUEL ANGEL",
+  "apellidoP": "BORJAS",
+  "apellidoM": "POLANCO",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2004,
+  "nombre": "JOSE ALBERTO",
+  "apellidoP": "BRAMBILA",
+  "apellidoM": "SALGADO",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2102,
+  "nombre": "CLARA EDITH",
+  "apellidoP": "CABRAL",
+  "apellidoM": "MEDINA",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2005,
+  "nombre": "BRUNO CÉSAR",
+  "apellidoP": "CALIXTO",
+  "apellidoM": "VILLEGAS",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2045,
+  "nombre": "ANGELA ARYAM",
+  "apellidoP": "CAMACHO",
+  "apellidoM": "GARCÍA",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1905,
+  "nombre": "PEDRO ANGEL",
+  "apellidoP": "CAMACHO",
+  "apellidoM": "SALAZAR",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2072,
+  "nombre": "GUSTAVO JHOSAFAT",
+  "apellidoP": "CAMPEAN",
+  "apellidoM": "IBARRA",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1550,
+  "nombre": "ANTONIO DE JESUS",
+  "apellidoP": "CARRILLO",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2132,
+  "nombre": "JOSÉ EDUARDO",
+  "apellidoP": "CASTAÑEDA",
+  "apellidoM": "MAGALLANES",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1916,
+  "nombre": "VERONICA",
+  "apellidoP": "CASTELLANOS",
+  "apellidoM": "DÍAZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2108,
+  "nombre": "JOSÉ MANUEL",
+  "apellidoP": "CASTILLO",
+  "apellidoM": "CEBALLOS",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1729,
+  "nombre": "MIGUEL ANGEL",
+  "apellidoP": "CASTILLO",
+  "apellidoM": "FARFAN",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2049,
+  "nombre": "ALAN ADONAI",
+  "apellidoP": "CASTILLO",
+  "apellidoM": "GUTIERREZ",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1946,
+  "nombre": "ALICIA ANEL",
+  "apellidoP": "CASTILLO",
+  "apellidoM": "MAR",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1956,
+  "nombre": "JUAN PABLO JESUS",
+  "apellidoP": "CASTRO",
+  "apellidoM": "LARA",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1026,
+  "nombre": "ADHARA ALEJANDRA",
+  "apellidoP": "CAVAZOS",
+  "apellidoM": "MATSUMOTO",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2149,
+  "nombre": "EMMANUEL",
+  "apellidoP": "CAZARES",
+  "apellidoM": "VIDAL",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1967,
+  "nombre": "NATALY JIMENA",
+  "apellidoP": "CEBALLOS",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1723,
+  "nombre": "SANDRA VIRIDIANA",
+  "apellidoP": "CERVANTES",
+  "apellidoM": "MORAN",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": false
+ },
+ {
+  "id": 1906,
+  "nombre": "SANDRA VIRIDIANA",
+  "apellidoP": "CERVANTES",
+  "apellidoM": "MORAN",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2050,
+  "nombre": "ITZEL SINAI",
+  "apellidoP": "CHAN",
+  "apellidoM": "TOPETE",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2133,
+  "nombre": "NALLELY ESTEFANÍA",
+  "apellidoP": "CHAPA",
+  "apellidoM": "ROCHA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1512,
+  "nombre": "JESUS EMMANUEL",
+  "apellidoP": "CHAVEZ",
+  "apellidoM": "MEDINA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": false
+ },
+ {
+  "id": 1917,
+  "nombre": "JESUS EMMANUEL",
+  "apellidoP": "CHAVEZ",
+  "apellidoM": "MEDINA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1918,
+  "nombre": "SAYRA IVETH",
+  "apellidoP": "CHAVEZ",
+  "apellidoM": "RUIZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2051,
+  "nombre": "LUIS OMAR",
+  "apellidoP": "CHONG",
+  "apellidoM": "LOPEZ",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2137,
+  "nombre": "ABRAHAM",
+  "apellidoP": "CHÁVEZ",
+  "apellidoM": "VELASCO",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2006,
+  "nombre": "KAREN YAMILET",
+  "apellidoP": "COBOS",
+  "apellidoM": "RIOS",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2119,
+  "nombre": "OSWALDO",
+  "apellidoP": "COLÍN",
+  "apellidoM": "JIMÉNEZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2114,
+  "nombre": "GABRIEL JESÚS",
+  "apellidoP": "CONDE",
+  "apellidoM": "SALAZAR",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2081,
+  "nombre": "LUIS FERNANDO",
+  "apellidoP": "CRUZ",
+  "apellidoM": "BONIFACIO",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1968,
+  "nombre": "ANA GABRIELA",
+  "apellidoP": "CRUZ",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1957,
+  "nombre": "HECTOR JOSÉ",
+  "apellidoP": "CUEVAS",
+  "apellidoM": "DE LA FUENTE",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2139,
+  "nombre": "OSCAR",
+  "apellidoP": "CÓRDOBA",
+  "apellidoM": "RIVERA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1919,
+  "nombre": "YAIR ARATH",
+  "apellidoP": "DE LA CRUZ",
+  "apellidoM": "GARCÍA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1920,
+  "nombre": "JUAN ANTONIO",
+  "apellidoP": "DE LA LLATA",
+  "apellidoM": "RAMOS",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2027,
+  "nombre": "LUIS ENRIQUE",
+  "apellidoP": "DEL ANGEL",
+  "apellidoM": "ALVARADO",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2026,
+  "nombre": "ANGEL GABRIEL",
+  "apellidoP": "DEL ANGEL",
+  "apellidoM": "FLORES",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1545,
+  "nombre": "JOSE LUIS",
+  "apellidoP": "DEL TRIGAL",
+  "apellidoM": "ORTEGA",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1614,
+  "nombre": "BRENDA BERENICE",
+  "apellidoP": "DEL ÁNGEL",
+  "apellidoM": "MORA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2007,
+  "nombre": "LUIS GAEL",
+  "apellidoP": "DIAZ",
+  "apellidoM": "FERNANDEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2028,
+  "nombre": "MANUEL ENRIQUE",
+  "apellidoP": "DIAZ",
+  "apellidoM": "MORALES",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1691,
+  "nombre": "MIRNA",
+  "apellidoP": "DIAZ",
+  "apellidoM": "TORRES",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2008,
+  "nombre": "JESUS ANTONIO",
+  "apellidoP": "DURAN",
+  "apellidoM": "LUGO",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2134,
+  "nombre": "MARTÍN ALEJANDRO",
+  "apellidoP": "DÁVILA",
+  "apellidoM": "HUERTA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1921,
+  "nombre": "ROSALBA MARLENE",
+  "apellidoP": "ELISEO",
+  "apellidoM": "BAILON",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2029,
+  "nombre": "NALLELY SOFIA",
+  "apellidoP": "ESCAMILLA",
+  "apellidoM": "MARTINEZ",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1969,
+  "nombre": "SUSANA PATRICIA",
+  "apellidoP": "ESCOBAR",
+  "apellidoM": "PINEDA",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1707,
+  "nombre": "GENARO",
+  "apellidoP": "ESPARZA",
+  "apellidoM": "DELGADO",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1970,
+  "nombre": "DANNA ALEJANDRA",
+  "apellidoP": "ESPINOSA",
+  "apellidoM": "SALDIVAR",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2138,
+  "nombre": "CESAR ANTONIO",
+  "apellidoP": "ESTRADA",
+  "apellidoM": "CORDOVA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2115,
+  "nombre": "PAULINA",
+  "apellidoP": "FERNÁNDEZ",
+  "apellidoM": "IZAGUIRRE",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2052,
+  "nombre": "VANESSA MISHELL",
+  "apellidoP": "FLORES",
+  "apellidoM": "PEREZ",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2075,
+  "nombre": "NOE",
+  "apellidoP": "FLORES",
+  "apellidoM": "ROMERO",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2030,
+  "nombre": "ALAN YVAR",
+  "apellidoP": "FRAUSTO",
+  "apellidoM": "CASTAN",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1922,
+  "nombre": "JOHAN OSMAR",
+  "apellidoP": "FRAUSTRO",
+  "apellidoM": "CASTAN",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1643,
+  "nombre": "FRANCISCO",
+  "apellidoP": "GALINDO",
+  "apellidoM": "CORTEZ",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2031,
+  "nombre": "VANESSA IVONNE",
+  "apellidoP": "GALLAGA",
+  "apellidoM": "CORBEIRA",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1548,
+  "nombre": "CARLOS HERMINIO",
+  "apellidoP": "GALVAN",
+  "apellidoM": "FLORES",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2009,
+  "nombre": "LIZBETH ALEJANDRA",
+  "apellidoP": "GAMEZ",
+  "apellidoM": "GAMEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2128,
+  "nombre": "DONALDO DAMIAN",
+  "apellidoP": "GARCES",
+  "apellidoM": "ANTONIO",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1923,
+  "nombre": "RICARDO",
+  "apellidoP": "GARCIA",
+  "apellidoM": "NAVARRETE",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1924,
+  "nombre": "ALEJANDRO",
+  "apellidoP": "GARCÍA",
+  "apellidoM": "AGUILAR",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2116,
+  "nombre": "JUDITH",
+  "apellidoP": "GARCÍA",
+  "apellidoM": "BADILLO",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2130,
+  "nombre": "JOSÉ ANTONIO",
+  "apellidoP": "GARCÍA",
+  "apellidoM": "MORENO",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2158,
+  "nombre": "CHAREL GUADALUPE",
+  "apellidoP": "GARCÍA",
+  "apellidoM": "RIVERA",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2053,
+  "nombre": "ANA LAURA",
+  "apellidoP": "GARIBAY",
+  "apellidoM": "PACHECO",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1591,
+  "nombre": "JESÚS ALEXIS",
+  "apellidoP": "GARZA",
+  "apellidoM": "GARZA",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1958,
+  "nombre": "HEBER ELÍ",
+  "apellidoP": "GASPAR",
+  "apellidoM": "TORRES",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2110,
+  "nombre": "ELIUD ALBERTO",
+  "apellidoP": "GERÓNIMO",
+  "apellidoM": "ALARCÓN",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2111,
+  "nombre": "ELIGIO",
+  "apellidoP": "GIRÓN",
+  "apellidoM": "HERNÁNDEZ",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 1925,
+  "nombre": "ADRIAN",
+  "apellidoP": "GOMEZ",
+  "apellidoM": "ALVAREZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2010,
+  "nombre": "JUAN PABLO",
+  "apellidoP": "GOMEZ",
+  "apellidoM": "TURRUBIATES",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1926,
+  "nombre": "MARTHA PATRICIA",
+  "apellidoP": "GONZALEZ",
+  "apellidoM": "AGRAZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2054,
+  "nombre": "JOSEPH GIOVANNI",
+  "apellidoP": "GONZALEZ",
+  "apellidoM": "BARBOSA",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1907,
+  "nombre": "ISRAEL",
+  "apellidoP": "GONZALEZ",
+  "apellidoM": "CURIEL",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2011,
+  "nombre": "HECTOR JESUS",
+  "apellidoP": "GONZALEZ",
+  "apellidoM": "HARO",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1947,
+  "nombre": "JOSE GABRIEL",
+  "apellidoP": "GONZALEZ",
+  "apellidoM": "TURRUBIATES",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1972,
+  "nombre": "VALERIA",
+  "apellidoP": "GONZALEZ",
+  "apellidoM": "TURRUBIATES",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2140,
+  "nombre": "SAÚL",
+  "apellidoP": "GONZÁLEZ",
+  "apellidoM": "PINEDA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1566,
+  "nombre": "VALERIA",
+  "apellidoP": "GONZÁLEZ",
+  "apellidoM": "TURRUBIATES",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": false
+ },
+ {
+  "id": 2159,
+  "nombre": "ALAN RAÚL",
+  "apellidoP": "GUERRA",
+  "apellidoM": "HERNÁNDEZ",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1974,
+  "nombre": "ANGELES ADRIANA",
+  "apellidoP": "GUEVARA",
+  "apellidoM": "MEDINA",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2032,
+  "nombre": "FELIX ANDRES",
+  "apellidoP": "GUTIERREZ",
+  "apellidoM": "GONZALEZ",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1975,
+  "nombre": "ANGELA AURORA",
+  "apellidoP": "GUTIERREZ",
+  "apellidoM": "SALAS",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1717,
+  "nombre": "FELIX GILBERTO",
+  "apellidoP": "GUTIERREZ",
+  "apellidoM": "VILLANUEVA",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1028,
+  "nombre": "ADRIANA LORENA",
+  "apellidoP": "GUZMAN",
+  "apellidoM": "ESCOBAR",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": false
+ },
+ {
+  "id": 1927,
+  "nombre": "ADRIANA LORENA",
+  "apellidoP": "GUZMAN",
+  "apellidoM": "ESCOBAR",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1592,
+  "nombre": "DANIELA",
+  "apellidoP": "GUZMÁN",
+  "apellidoM": "ESCOBAR",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2160,
+  "nombre": "PRINCE XAVIER",
+  "apellidoP": "GUZMÁN",
+  "apellidoM": "VILLANUEVA",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2078,
+  "nombre": "ORLANDO",
+  "apellidoP": "HERNANDEZ",
+  "apellidoM": "CALLES",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1999,
+  "nombre": "LUIS EDUARDO",
+  "apellidoP": "HERNANDEZ",
+  "apellidoM": "CASTRO",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1521,
+  "nombre": "ERICK MANUEL",
+  "apellidoP": "HERNANDEZ",
+  "apellidoM": "DIAZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": false
+ },
+ {
+  "id": 1516,
+  "nombre": "EUSEBIO",
+  "apellidoP": "HERNANDEZ",
+  "apellidoM": "JIMENEZ",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 1976,
+  "nombre": "EDSON LORENZO",
+  "apellidoP": "HERNANDEZ",
+  "apellidoM": "MARTINEZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1928,
+  "nombre": "JESSICA PAOLA",
+  "apellidoP": "HERNANDEZ",
+  "apellidoM": "OLGUIN",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2123,
+  "nombre": "ALFREDO",
+  "apellidoP": "HERNÁNDEZ",
+  "apellidoM": "GARCÍA",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2013,
+  "nombre": "JOSE RAUL",
+  "apellidoP": "HERNÁNDEZ",
+  "apellidoM": "SANDOVAL",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2141,
+  "nombre": "ANGELA",
+  "apellidoP": "HERNÁNDEZ",
+  "apellidoM": "ZARAGOZA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2142,
+  "nombre": "NICOLÁS",
+  "apellidoP": "HERNÁNDEZ",
+  "apellidoM": "ZARAGOZA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2143,
+  "nombre": "YATLANEZI",
+  "apellidoP": "HERNÁNDEZ",
+  "apellidoM": "ZARAGOZA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1977,
+  "nombre": "BRENDA ITZEL",
+  "apellidoP": "HERRERA",
+  "apellidoM": "BARAJAS",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1640,
+  "nombre": "PORFIRIO",
+  "apellidoP": "HERRERA",
+  "apellidoM": "FLORES",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2055,
+  "nombre": "KARLA MARITZA",
+  "apellidoP": "HERRERA",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1929,
+  "nombre": "ALLAN MIZAEL",
+  "apellidoP": "JIMENEZ",
+  "apellidoM": "FERNANDEZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1978,
+  "nombre": "RICARDO OTHON",
+  "apellidoP": "JIMENEZ",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1979,
+  "nombre": "ANAI",
+  "apellidoP": "JUAREZ",
+  "apellidoM": "RAMOS",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1908,
+  "nombre": "ARNOLD ALEJANDRO",
+  "apellidoP": "LARA",
+  "apellidoM": "TERÁN",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1552,
+  "nombre": "MADELYN IRISMETH",
+  "apellidoP": "LAUREANO",
+  "apellidoM": "SANCHEZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2033,
+  "nombre": "ANGELICA",
+  "apellidoP": "LEON",
+  "apellidoM": "CORNEJO",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2117,
+  "nombre": "KATEA ELIZABETH",
+  "apellidoP": "LIRA",
+  "apellidoM": "GARCÍA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2056,
+  "nombre": "SERGIO ANTONIO",
+  "apellidoP": "LOPEZ",
+  "apellidoM": "GAYTAN",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2077,
+  "nombre": "ROBERTO ALFREDO",
+  "apellidoP": "LOPEZ",
+  "apellidoM": "LIMON",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1959,
+  "nombre": "ERNESTO",
+  "apellidoP": "LOPEZ",
+  "apellidoM": "PEREZ",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1981,
+  "nombre": "ARACELY GUADALUPE",
+  "apellidoP": "LOPEZ",
+  "apellidoM": "TORRES",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1722,
+  "nombre": "ROCIO ANABELL",
+  "apellidoP": "LOREDO",
+  "apellidoM": "HERNANDEZ",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2014,
+  "nombre": "LEXISS",
+  "apellidoP": "LORENZO",
+  "apellidoM": "SANCHEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1960,
+  "nombre": "PEDRO",
+  "apellidoP": "LUNA",
+  "apellidoM": "CHAVEZ",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1526,
+  "nombre": "FERNANDO",
+  "apellidoP": "LUNA",
+  "apellidoM": "RODRIGUEZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1616,
+  "nombre": "GRISELDA EDITH",
+  "apellidoP": "LÓPEZ",
+  "apellidoM": "GUZMÁN",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1532,
+  "nombre": "SUSAN MARGARITA",
+  "apellidoP": "MALDONADO",
+  "apellidoM": "ROBERT",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1961,
+  "nombre": "SUSAN MARGARITA",
+  "apellidoP": "MALDONADO",
+  "apellidoM": "ROBERT",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2015,
+  "nombre": "FERNANDO",
+  "apellidoP": "MANZANARES",
+  "apellidoM": "GONZALEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2057,
+  "nombre": "MIGUEL",
+  "apellidoP": "MARQUEZ",
+  "apellidoM": "VAZQUEZ",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1983,
+  "nombre": "OMAR ALEJANDRO",
+  "apellidoP": "MARTINEZ",
+  "apellidoM": "DEL ANGEL",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2016,
+  "nombre": "JOSE AMANDO",
+  "apellidoP": "MARTINEZ",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1982,
+  "nombre": "JULIO ALBERTO",
+  "apellidoP": "MARTINEZ",
+  "apellidoM": "MUJICA",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2017,
+  "nombre": "ALAN ENRIQUE",
+  "apellidoP": "MARTINEZ",
+  "apellidoM": "OROZCO",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1553,
+  "nombre": "ELIAS",
+  "apellidoP": "MARTINEZ",
+  "apellidoM": "SALAS",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1962,
+  "nombre": "JOSE MANUEL",
+  "apellidoP": "MARTINEZ",
+  "apellidoM": "TERAN",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2124,
+  "nombre": "ROEL RUBÍN",
+  "apellidoP": "MARTÍNEZ",
+  "apellidoM": "ACOSTA",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2144,
+  "nombre": "JORGE ARTURO",
+  "apellidoP": "MARTÍNEZ",
+  "apellidoM": "MOCTEZUMA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1910,
+  "nombre": "MIGUEL",
+  "apellidoP": "MARTÍNEZ",
+  "apellidoM": "MONTES",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1620,
+  "nombre": "JOSÉ LUIS",
+  "apellidoP": "MARTÍNEZ",
+  "apellidoM": "NAVARRO",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2131,
+  "nombre": "GERARDO",
+  "apellidoP": "MARTÍNEZ",
+  "apellidoM": "SAENZ",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2105,
+  "nombre": "ANA BELÉN",
+  "apellidoP": "MAYORGA",
+  "apellidoM": "CELESTINO",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1984,
+  "nombre": "CELESTE",
+  "apellidoP": "MEDINA",
+  "apellidoM": "GUZMAN",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2018,
+  "nombre": "JOSUE DE JESÚS",
+  "apellidoP": "MEDINA",
+  "apellidoM": "QUINTANAR",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1572,
+  "nombre": "RICARDO",
+  "apellidoP": "MEJÍA",
+  "apellidoM": "RIVAS",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2058,
+  "nombre": "ITZEL",
+  "apellidoP": "MELGOZA",
+  "apellidoM": "SALINAS",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1930,
+  "nombre": "GERARDO",
+  "apellidoP": "MENDES DA SILVA",
+  "apellidoM": "MAR",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2163,
+  "nombre": "GERARDO",
+  "apellidoP": "MENDES DA SILVA",
+  "apellidoM": "MAR",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1911,
+  "nombre": "ROBERTO ELPIDIO",
+  "apellidoP": "MENDEZ",
+  "apellidoM": "ALVAREZ",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1018,
+  "nombre": "JOSE GUADALUPE",
+  "apellidoP": "MENDEZ",
+  "apellidoM": "PEREZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2023,
+  "activo": false
+ },
+ {
+  "id": 1985,
+  "nombre": "KEYLA ARIZBETH",
+  "apellidoP": "MEZA",
+  "apellidoM": "MUÑIZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2034,
+  "nombre": "KATYA PAOLA",
+  "apellidoP": "MOCTEZUMA",
+  "apellidoM": "HERRERA",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1003,
+  "nombre": "NADINE FERNANDA",
+  "apellidoP": "MONTEMAYOR",
+  "apellidoM": "GARCIA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 1546,
+  "nombre": "ALBERTO MOHAMED",
+  "apellidoP": "MONTOYA",
+  "apellidoM": "RAMOS",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2035,
+  "nombre": "FRIDA ALEJANDRA",
+  "apellidoP": "MORA",
+  "apellidoM": "VEGA",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1531,
+  "nombre": "RAUL ALEJANDRO",
+  "apellidoP": "MORALES",
+  "apellidoM": "RIVERA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1986,
+  "nombre": "MAGDA YAZMIN",
+  "apellidoP": "MUÑIZ",
+  "apellidoM": "MORALES",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2036,
+  "nombre": "MONICA JOSSELIN",
+  "apellidoP": "MUÑOZ",
+  "apellidoM": "ALONSO",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2161,
+  "nombre": "EVELYN JOSELIN",
+  "apellidoP": "OCHOA",
+  "apellidoM": "GONZÁLEZ",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2060,
+  "nombre": "SAMUEL",
+  "apellidoP": "OLGUIN",
+  "apellidoM": "MORALES",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2084,
+  "nombre": "DIEGO",
+  "apellidoP": "OLIVER",
+  "apellidoM": "MARTINEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2086,
+  "nombre": "CARLOS GUILLERMO",
+  "apellidoP": "ORTIZ",
+  "apellidoM": "GRANDE",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1689,
+  "nombre": "SERGIO ARTURO",
+  "apellidoP": "ORTIZ",
+  "apellidoM": "RUIZ",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2145,
+  "nombre": "OSCAR GERMÁN",
+  "apellidoP": "PADILLA",
+  "apellidoM": "CRISTERNA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1987,
+  "nombre": "ANA ALEJANDRA",
+  "apellidoP": "PALOMO",
+  "apellidoM": "CHAVEZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1948,
+  "nombre": "JANNYA",
+  "apellidoP": "PANCARDO",
+  "apellidoM": "PEREZ",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2046,
+  "nombre": "SHEILA ELIAHNY",
+  "apellidoP": "PARRILLA",
+  "apellidoM": "LEON",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2061,
+  "nombre": "MARIA ALEJANDRA",
+  "apellidoP": "PAYAN",
+  "apellidoM": "OLIVAS",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1963,
+  "nombre": "JAVIER",
+  "apellidoP": "PERALTA",
+  "apellidoM": "CRUZ",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2164,
+  "nombre": "JAVIER",
+  "apellidoP": "PERALTA",
+  "apellidoM": "CRUZ",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1597,
+  "nombre": "JONATHAN IVAN",
+  "apellidoP": "PEREDA",
+  "apellidoM": "CORTES",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1721,
+  "nombre": "JAIR DE JESUS",
+  "apellidoP": "PEREZ",
+  "apellidoM": "FRANCO",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1931,
+  "nombre": "HECTOR RAMON",
+  "apellidoP": "PEREZ",
+  "apellidoM": "SAN MARTIN",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1514,
+  "nombre": "JUAN PABLO JESUS",
+  "apellidoP": "PEÑAFLOR",
+  "apellidoM": "DEL ANGEL",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1988,
+  "nombre": "MARCOS RODRIGO",
+  "apellidoP": "PICHARDO",
+  "apellidoM": "AGUILA",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1517,
+  "nombre": "MARIA FERNANDA",
+  "apellidoP": "PICHARDO",
+  "apellidoM": "AGUILAR",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2104,
+  "nombre": "CARMEN GUADALUPE",
+  "apellidoP": "PICHARDO",
+  "apellidoM": "FRANZONI",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2107,
+  "nombre": "ROBERTO DE JESÚS",
+  "apellidoP": "PICHARDO",
+  "apellidoM": "FRANZONI",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1932,
+  "nombre": "CLAUDIA",
+  "apellidoP": "PICHARDO",
+  "apellidoM": "TREVIÑO",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1635,
+  "nombre": "ALEXIS",
+  "apellidoP": "PIMENTEL",
+  "apellidoM": "TORRES",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1989,
+  "nombre": "DANIELA ABIGAIL",
+  "apellidoP": "PRESA",
+  "apellidoM": "MARTINEZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2063,
+  "nombre": "ARISTEO FRANCISCO",
+  "apellidoP": "PRIETO",
+  "apellidoM": "TORRES",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2062,
+  "nombre": "JONATHAN GUENNADI",
+  "apellidoP": "PÉREZ",
+  "apellidoM": "ALEGRÍA",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1575,
+  "nombre": "ANA ROSA",
+  "apellidoP": "PÉREZ",
+  "apellidoM": "BERRONES",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2120,
+  "nombre": "LUZ ADRIANA",
+  "apellidoP": "PÉREZ",
+  "apellidoM": "VILLEGAS",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1949,
+  "nombre": "LINDA ISABEL",
+  "apellidoP": "QUILANTAN",
+  "apellidoM": "MELIAN",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1933,
+  "nombre": "EDY ALAN",
+  "apellidoP": "RAMIREZ",
+  "apellidoM": "PRIEGO",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2146,
+  "nombre": "KEVÍN AMADOR",
+  "apellidoP": "RAMÍREZ",
+  "apellidoM": "PARRA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1990,
+  "nombre": "LAURA ILIANA",
+  "apellidoP": "REDONDO",
+  "apellidoM": "MARTINEZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1950,
+  "nombre": "SERGIO JOSAFAT",
+  "apellidoP": "RESENDIZ",
+  "apellidoM": "SEQUERA",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2156,
+  "nombre": "VICTOR MANUEL",
+  "apellidoP": "REYES",
+  "apellidoM": "CRUZ",
+  "programa": "ETG",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1645,
+  "nombre": "CARLOS",
+  "apellidoP": "REYES",
+  "apellidoM": "HERNÁNDEZ",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1934,
+  "nombre": "GRISELD TERESA",
+  "apellidoP": "REYES",
+  "apellidoM": "RAYA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1935,
+  "nombre": "JORGE OCTAVIO",
+  "apellidoP": "REYNOSO",
+  "apellidoM": "MARTINEZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2076,
+  "nombre": "ELVIA CAROLINA",
+  "apellidoP": "RIOS",
+  "apellidoM": "ALANIS",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2064,
+  "nombre": "SUSANA GABRIELA",
+  "apellidoP": "RIVERA",
+  "apellidoM": "CUERVO",
+  "programa": "MIP",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1624,
+  "nombre": "GERARDO",
+  "apellidoP": "ROCHA",
+  "apellidoM": "ROBLES",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1936,
+  "nombre": "IRMA ALEJANDRA",
+  "apellidoP": "RODRIGUEZ",
+  "apellidoM": "IBARRA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1991,
+  "nombre": "ALAN EMANUEL",
+  "apellidoP": "RODRIGUEZ",
+  "apellidoM": "MONSIVAIS",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1937,
+  "nombre": "JORGE GERONIMO",
+  "apellidoP": "ROJAS",
+  "apellidoM": "MARTINEZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1004,
+  "nombre": "LESLIE GUADALUPE",
+  "apellidoP": "ROLON",
+  "apellidoM": "GARCIA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2020,
+  "nombre": "SEBASTIAN AXEL",
+  "apellidoP": "ROMAN",
+  "apellidoM": "REYES",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2038,
+  "nombre": "JONATHAN",
+  "apellidoP": "ROMERO",
+  "apellidoM": "MACIAS",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2125,
+  "nombre": "ROBERTO",
+  "apellidoP": "ROSALES DE LA",
+  "apellidoM": "ROSA",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2082,
+  "nombre": "SARA ESTEFANIA",
+  "apellidoP": "RUIZ",
+  "apellidoM": "REYES",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2040,
+  "nombre": "ANDREA",
+  "apellidoP": "SAAVEDRA",
+  "apellidoM": "ESQUIVEL",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2039,
+  "nombre": "ARTURO",
+  "apellidoP": "SAAVEDRA",
+  "apellidoM": "ESQUIVEL",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2021,
+  "nombre": "JEREMY EMMANUEL",
+  "apellidoP": "SALAZAR",
+  "apellidoM": "GONZALEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2065,
+  "nombre": "OSCAR ARTURO",
+  "apellidoP": "SALAZAR",
+  "apellidoM": "TORRES",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2085,
+  "nombre": "ADAN",
+  "apellidoP": "SALGADO",
+  "apellidoM": "POSADAS",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2022,
+  "nombre": "IMANOL",
+  "apellidoP": "SALINAS",
+  "apellidoM": "MARTINEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1939,
+  "nombre": "HECTOR MANUEL",
+  "apellidoP": "SANCHEZ",
+  "apellidoM": "GARCIA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1992,
+  "nombre": "CARLOS ESTUARDO",
+  "apellidoP": "SANCHEZ",
+  "apellidoM": "MASCAREÑAS",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2074,
+  "nombre": "EDSON OSVALDO",
+  "apellidoP": "SANCHEZ",
+  "apellidoM": "PEREZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2147,
+  "nombre": "RENÉ DE JESÚS",
+  "apellidoP": "SANCHEZ",
+  "apellidoM": "VEGA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1712,
+  "nombre": "MARIELA",
+  "apellidoP": "SANTIAGO",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1952,
+  "nombre": "NADIA ESMERALDA",
+  "apellidoP": "SEGURA",
+  "apellidoM": "SANDOVAL",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1940,
+  "nombre": "JEANNETTE",
+  "apellidoP": "SERRANO",
+  "apellidoM": "CAMPOS",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": false
+ },
+ {
+  "id": 2165,
+  "nombre": "JEANNETTE",
+  "apellidoP": "SERRANO",
+  "apellidoM": "CAMPOS",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2000,
+  "nombre": "ITZERERI",
+  "apellidoP": "SIERRA",
+  "apellidoM": "CRUZ",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2152,
+  "nombre": "JAVIER ALBERTO",
+  "apellidoP": "SIERRA",
+  "apellidoM": "GARCIA",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1993,
+  "nombre": "AGUSTÍN",
+  "apellidoP": "SOLIS",
+  "apellidoM": "LEYVA",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1710,
+  "nombre": "ANEL VERONICA",
+  "apellidoP": "SOSA",
+  "apellidoM": "MEJIA",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1636,
+  "nombre": "ANGEL FRANCISCO",
+  "apellidoP": "SOTO",
+  "apellidoM": "SANDOVAL",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1010,
+  "nombre": "OSCAR JESUS",
+  "apellidoP": "SUAREZ",
+  "apellidoM": "OLGUIN",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2042,
+  "nombre": "FRANCISCO EMMANUEL",
+  "apellidoP": "TINAJERO",
+  "apellidoM": "OCHOA",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2162,
+  "nombre": "JOSÉ LUIS",
+  "apellidoP": "TORRES",
+  "apellidoM": "AGUILAR",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1942,
+  "nombre": "JONATHAN MIGUEL",
+  "apellidoP": "TORRES",
+  "apellidoM": "GUTIERREZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1943,
+  "nombre": "SALMA LUZ",
+  "apellidoP": "TORRES",
+  "apellidoM": "MAR",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2148,
+  "nombre": "ALEXANDER",
+  "apellidoP": "TORRES",
+  "apellidoM": "PÉREZ",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2150,
+  "nombre": "CARLOS ALBERTO",
+  "apellidoP": "TORRES",
+  "apellidoM": "SÁNCHEZ",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2121,
+  "nombre": "SUEMY ESTEYSY",
+  "apellidoP": "TORREZ",
+  "apellidoM": "PEREZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2122,
+  "nombre": "JOSÉ ANTONIO",
+  "apellidoP": "TREJO",
+  "apellidoM": "CRUZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2043,
+  "nombre": "RAUL EMILIANO",
+  "apellidoP": "TREVIÑO",
+  "apellidoM": "HERNANDEZ",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2126,
+  "nombre": "VICTOR MANUEL",
+  "apellidoP": "TRUEBA",
+  "apellidoM": "ROMERO",
+  "programa": "MC",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2103,
+  "nombre": "CITLALI",
+  "apellidoP": "VALLADARES",
+  "apellidoM": "LARIOS",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2079,
+  "nombre": "MARIELA",
+  "apellidoP": "VALLADARES",
+  "apellidoM": "LARIOS",
+  "programa": "MIN",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1627,
+  "nombre": "PEDRO",
+  "apellidoP": "VALLE",
+  "apellidoM": "SEGOVIA",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2067,
+  "nombre": "INGRID GUADALUPE",
+  "apellidoP": "VARGAS",
+  "apellidoM": "IÑIGUEZ",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2044,
+  "nombre": "OMAR ALEJANDRO",
+  "apellidoP": "VAZQUEZ",
+  "apellidoM": "GUTIERREZ",
+  "programa": "MCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2135,
+  "nombre": "CARLOS EDUARDO",
+  "apellidoP": "VAZQUEZ",
+  "apellidoM": "MEZA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1953,
+  "nombre": "NORMA ANGELICA",
+  "apellidoP": "VAZQUEZ",
+  "apellidoM": "PIMIENTA",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1996,
+  "nombre": "PAOLA VALENTINA",
+  "apellidoP": "VEGA",
+  "apellidoM": "CASTILLO",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1995,
+  "nombre": "SARA IVETTE",
+  "apellidoP": "VEGA",
+  "apellidoM": "NARVAEZ",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1954,
+  "nombre": "ALEJANDRO",
+  "apellidoP": "VEGA",
+  "apellidoM": "SANCHEZ",
+  "programa": "DII",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1997,
+  "nombre": "JUAN DANIEL",
+  "apellidoP": "VELAZQUEZ",
+  "apellidoM": "RAMIREZ",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2023,
+  "nombre": "OMAR ELIEZER",
+  "apellidoP": "VILLAGRAN",
+  "apellidoM": "TAJONAR",
+  "programa": "MCC",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2068,
+  "nombre": "LUIS MANUEL",
+  "apellidoP": "VIRGEN",
+  "apellidoM": "ZUÑIGA",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 2112,
+  "nombre": "DANIEL ESAU",
+  "apellidoP": "ZALETA",
+  "apellidoM": "HERNANDEZ",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1583,
+  "nombre": "JOSÉ ALBERTO",
+  "apellidoP": "ZAMORA",
+  "apellidoM": "SALVADOR",
+  "programa": "MIP",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 2118,
+  "nombre": "ERICK YAIR",
+  "apellidoP": "ZAPATA",
+  "apellidoM": "AGUILAR",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 1998,
+  "nombre": "ANA LUISA",
+  "apellidoP": "ZAVALA",
+  "apellidoM": "BARBERENA",
+  "programa": "MAI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1944,
+  "nombre": "LIZETH ALEJANDRA",
+  "apellidoP": "ZAVALA",
+  "apellidoM": "BARBERENA",
+  "programa": "DCI",
+  "grupo": "A",
+  "generacion": 2026,
+  "activo": true
+ },
+ {
+  "id": 1510,
+  "nombre": "JOSE ANTONIO",
+  "apellidoP": "ZUÑIGA",
+  "apellidoM": "RUELAS",
+  "programa": "DCC",
+  "grupo": "A",
+  "generacion": 2024,
+  "activo": true
+ },
+ {
+  "id": 2151,
+  "nombre": "FELIPE DE JESÚS",
+  "apellidoP": "ZÚÑIGA",
+  "apellidoM": "MEDINA",
+  "programa": "DCI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ },
+ {
+  "id": 1558,
+  "nombre": "CÉSAR FERNANDO",
+  "apellidoP": "ÁVILA",
+  "apellidoM": "BARRÓN",
+  "programa": "MAI",
+  "grupo": "B",
+  "generacion": 2025,
+  "activo": true
+ }
+]

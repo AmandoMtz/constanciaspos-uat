@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: constancias-uat-fit
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
